@@ -9,5 +9,10 @@ namespace WsInicio.Controllers
 {
     public class Prueba2Controller : ApiController
     {
+
+        public hola()
+        {
+            return null;
+        }
     }
 }
